@@ -40,6 +40,7 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 **Server Specialist Manager at Bank Negara Malaysia (Central Bank of Malaysia)**
 
 Sept 2018 - Present
+
 *Daily Operation*
 * Review new server and application implementation design, provide input from server and infrastructure architecture point of view. 
 * Review draft document in secure configuration document/hardening. Work with the Cyber Security team to ensure the document is properly reviewed to avoid disruption when implementing any hardening changes. 
