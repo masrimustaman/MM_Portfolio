@@ -1,4 +1,3 @@
-# Md Masri bin Md Mustaman
 ### (Technical Manager/Infra Architect)
 
 Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Infrastructure Advisor/Specialist/Technical Manager. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra , business operation and analytic tools for effective analysis for data-driven decision-making.
