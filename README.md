@@ -1,6 +1,6 @@
 ### (Technical Manager/Infra Architect)
 
-Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Infrastructure Advisor/Specialist/Technical Manager. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra , business operation and analytic tools for effective analysis for data-driven decision-making.
+Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Infrastructure Advisor/Specialist/Technical Manager. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra, business operation and analytic tools for effective analysis for data-driven decision-making.
 
 ## Certification
 
@@ -35,7 +35,7 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 * JLPT Japanese-Language Proficiency Test - 日本語能力試験 - N1 - February 2013
 * Test of English for International Communication (TOEIC) - 975/990 - September 2012
 
-## Latest Experience
+## Experience (Latest)
 **Server Specialist Manager at Bank Negara Malaysia (Central Bank of Malaysia)**
 
 Sept 2018 - Present
