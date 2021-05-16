@@ -55,14 +55,7 @@ Sept 2018 - Present
   - Planning, installing, coordinating, implementation, migration  and troubleshooting with various application and stakeholders. This activity was planned in accordance to the bank’s IT Infrastructure Lifecycle Policy. This activity includes upgrading the ESX and vCenter from 6.0 to 7.0 as well as other component such as vCenter, SRM which is highly integrated with our EMC storage. 
 
 * Puppet Automation Project
-  - Planning and implementation of Puppet which includes
-  - Install 2019.8 latest LTS version of Puppet
-  - Configure code internal code repository using bitbucket
-  - Configure and manage code from puppet forge from to internal repo
-  - Install and troubleshoot agent installation
-  - Plan and perform patch automation using Puppet PE Patch
-  - Develop python scripts to convert Puppet task JSON output to CSV for data analysis/manipulation/reporting
-  - Develop dashboard to display information on node and patching status using python (stremlit and pandas), to further enhanced dashboarding capability in Puppet Enterprise console. 
+  - Planning, installing 2019.8 LTS, configuring internal code repository, agent installation, and troubleshooting with various application and stakeholders. The project is part of technology modernization initiative to improve cybersecurity posture with regards to security patches using Puppet PE Patch. Other than that I have developed python scripts to convert Puppet task JSON output to CSV and developed dashboard to display information on node and patching status using python. 
 
 *Improvement :*
 - Automate VMware Inventory Reporting using RVTools, Powershell, Python Pandas
