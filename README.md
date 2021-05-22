@@ -5,8 +5,8 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 ## Certification
 
 **Data Analysis**
-* Google Data Analytics Professional Certificate - June 2021 Ongoing (completed Foundations: Data, Data, Everywhere)
-* Microsoft Certified: Data Analyst Associate - June 2021 Ongoing
+* Google Data Analytics Professional Certificate - June 2021 Ongoing
+* Microsoft Certified: Data Analyst Associate - May 2021
 
 **Cloud**
 * Amazon Web Services Solution Architect Associate - November 2016
@@ -28,7 +28,8 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 
 **Security**
 * Penetration Testing Engineer Mile2 - June 2015 
-* IT service management
+
+**IT Service Management**
 * ITIL® 2011 Foundation - January 2014
 
 **Language**
