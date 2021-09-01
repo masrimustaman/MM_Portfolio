@@ -14,17 +14,27 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
   - Powershell, RVTools, Power BI
 
 ## Skills
-| Infra/DevOps | Data Analytic |
-| ----------- | ----------- |
-| - Server OS (Windows Server, RHEL, Ubuntu)| - Proficiency with spreadsheets and Programming Language - Python (Numpy, Pandas), Powershell|
-| - Microsoft Failover Cluster| - Web Scrapping (Python - Selenium) |
-|- Active Directory| - IDE - VS Code, Jupyter Notebook, VIM |
-|- DHCP| - Dev Env - VirtualBox, Vagrant |
-|- DNS| - Reporting, Dashboarding - Excel, PowerBI, Python (Streamlit), Grafana |
-|- Virtualization - VMware| - Strong analytical skills |
-|- Automation/Config Mgmt : Ansible, Puppet| - Pattern recognition |
-|- Version Control/Collaboration : Git| - Relational databases and SQL |
-|- Language - Powershell, Python | - Strong data visualization skills |
+**Infra/DevOps**
+ - Server OS (Windows Server, RHEL, Ubuntu) 
+ - Microsoft Failover Cluster
+ - Active Directory 
+ - DHCP 
+ - DNS
+ - Virtualization - VMware
+ - Automation/Config Mgmt : Ansible, Puppet
+ - Version Control/Collaboration : Git 
+ - Language - Powershell, Python  
+
+**Data Analytic**
+ - Proficiency with spreadsheets and Programming Language - Python (Numpy, Pandas), Powershell
+ - Web Scrapping (Python - Selenium) 
+ - IDE - VS Code, Jupyter Notebook, VIM 
+ - Dev Env - VirtualBox, Vagrant 
+ - Reporting, Dashboarding - Excel, PowerBI, Python (Streamlit), Grafana 
+ - Strong analytical skills 
+ - Pattern recognition 
+ - Relational databases and SQL 
+ - Strong data visualization skills 
 
 
 ## Certification
