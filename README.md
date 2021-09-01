@@ -1,6 +1,31 @@
-### (Technical Manager/Infra Architect)
+### Server Architect (Manager)/Infrastructure Operation Data Analyst
 
-Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Infrastructure Advisor/Specialist/Technical Manager. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra, business operation and analytic tools for effective analysis for data-driven decision-making.
+Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Architect/Infrastructure Operation Data Analyst. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra, business operation and analytic tools for effective analysis for data-driven decision-making.
+
+## Recent Project Highlights :
+* Malaysia Population, Covid 19 Malaysia Vaccination & Death 
+  - Python (Pandas, Streamlit etc), Heroku, Git
+  - [Click Here - Heroku App URL](http://moh-vaccination-mm.herokuapp.com/)
+* Puppet Patching Dashboard 
+  - Powershell, Python (Pandas, Request, json), Sharepoint, Power BI
+* Compliance Dashboard 
+  - Powershell, Python (Pandas, Request, json), Sharepoint, Power BI
+* VMware VI Infra Overview Dashboard
+  - Powershell, RVTools, Power BI
+
+## Skills
+| Infra/DevOps | Data Analytic |
+| ----------- | ----------- |
+| - Server OS (Windows Server, RHEL, Ubuntu)| - Proficiency with spreadsheets and Programming Language - Python (Numpy, Pandas), Powershell|
+| - Microsoft Failover Cluster| - Web Scrapping (Python - Selenium) |
+|- Active Directory| - IDE - VS Code, Jupyter Notebook, VIM |
+|- DHCP| - Dev Env - VirtualBox, Vagrant |
+|- DNS| - Reporting, Dashboarding - Excel, PowerBI, Python (Streamlit), Grafana |
+|- Virtualization - VMware| - Strong analytical skills |
+|- Automation/Config Mgmt : Ansible, Puppet| - Pattern recognition |
+|- Version Control/Collaboration : Git| - Relational databases and SQL |
+|- Language - Powershell, Python | - Strong data visualization skills |
+
 
 ## Certification
 
@@ -37,33 +62,34 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 * Test of English for International Communication (TOEIC) - 975/990 - September 2012
 
 ## Experience (Latest)
-**Server Specialist Manager at Bank Negara Malaysia (Central Bank of Malaysia)**
+**Server Architect (Manager) at Bank Negara Malaysia (Central Bank of Malaysia)**
 
 Sept 2018 - Present
 
-*Daily Operation*
-* Review new server and application implementation design, provide input from server and infrastructure architecture point of view. 
-* Review draft document in secure configuration document/hardening. Work with the Cyber Security team to ensure the document is properly reviewed to avoid disruption when implementing any hardening changes. 
-* Work with other infra architect to identify gaps in current IT Infrastructure and to improve. 
-* Act as consultant/technical specialist for Windows and VMware related issues. To assist the operation team managing complex Windows server environments across 3 datacenters and branch offices.
-* Create manual/cook book/run book and help the team to automate operational task using python and powershell
+**Senior System Administrator at DXC Technology (Formerly known CSC Malaysia Sdn Bhd)**
 
-*Projects*
-* Windows Server 2008 Tech Refresh Project
-  - Planning, installing, coordinating, implementation, migration  and troubleshooting with various application and stakeholders. This includes migration from physical to virtual, and virtual to virtual using several approaches like in-place upgrade or fresh install. Target servers includes clustered servers for high availability, database server, application servers, and web servers. 
+December 2015 - September 2018
 
-* VMware Vsphere Upgrade Proj
-  - Planning, installing, coordinating, implementation, migration  and troubleshooting with various application and stakeholders. This activity was planned in accordance to the bank’s IT Infrastructure Lifecycle Policy. This activity includes upgrading the ESX and vCenter from 6.0 to 7.0 as well as other component such as vCenter, SRM which is highly integrated with our EMC storage. 
+**Mobility and Workplace Platform Management,  Software Distribution Specialist at IBM (Japanese Speaking)**
 
-* Puppet Automation Project
-  - Planning, installing 2019.8 LTS, configuring internal code repository, agent installation, and troubleshooting with various application and stakeholders. The project is part of technology modernization initiative to improve cybersecurity posture with regards to security patches using Puppet PE Patch. Other than that I have developed python scripts to convert Puppet task JSON output to CSV and developed dashboard to display information on node and patching status using python. 
+December 2014 - December 2015 
 
-*Improvement :*
-- Automate VMware Inventory Reporting using RVTools, Powershell, Python Pandas
-- Automate Disaster Recovery activity - DNS swing using powershell DNS Server cmdlets
-- VM Proactive checking and reporting - Offline VMs, VMs powered on but not connected to network using RVTools, Powershell, Python Pandas
-- Extract information and reporting from Windows Server Eventlog for audit purposes using Powershell and Python Pandas
-- Daily reporting with summary on Nagios critical alerts using Nagios API, python pandas and powershell
+**System Engineer at Ueno Seiki Co.Ltd.(Kitakyushu, Japan)**
 
+April 2012 - January 2013
 
+## Screenshot of Past Projects
 
+![Puppet Hardening Compliance Dashboard 01](/images/002-Compliance-01.png)
+
+![Puppet Hardening Compliance Dashboard 02](/images/002-Compliance-02.png)
+
+![Server Patch Dashboard 01](/images/003-Patching-01.png)
+
+![Server Patch Dashboard 01](/images/003-Patching-02.png)
+
+![Server Patch Dashboard 01](/images/003-Patching-03.png)
+
+![Covid 10 Vaccination Dashboard 01](/images/moh-01.png)
+
+![Covid 10 Vaccination Dashboard 02](/images/moh-02.png)
