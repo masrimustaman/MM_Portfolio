@@ -86,7 +86,7 @@ December 2015 - September 2018
 
 December 2014 - December 2015 
 
-**IT Technical Analyst - Wintel and Virtualization, AIG Global Services (Malaysia)
+**IT Technical Analyst - Wintel and Virtualization, AIG Global Services (Malaysia)**
 
 May 2013 – Nov 2014
 
