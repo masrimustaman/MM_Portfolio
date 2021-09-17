@@ -73,7 +73,7 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 * JLPT Japanese-Language Proficiency Test - 日本語能力試験 - N1 - February 2013
 * Test of English for International Communication (TOEIC) - 975/990 - September 2012
 
-## Experience (Latest)
+## Experience
 **Server Architect (Manager) at Bank Negara Malaysia (Central Bank of Malaysia)**
 
 Sept 2018 - Present
