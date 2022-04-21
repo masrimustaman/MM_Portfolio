@@ -2,9 +2,10 @@
 
 ### IT Infra (Server) Architect / Infrastructure Operation Data Analyst
 
-Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) Server Architect/Infrastructure Operation Data Analyst. Prefers CLI over GUI, and to automate task using powershell and python. Problem identifier and troubleshooter. Broad experience and exposure across different IT technologies.  Excellent understanding of IT infra, business operation and analytic tools for effective analysis for data-driven decision-making.
+Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) IT Specialist. Prefers CLI over GUI, and often finds ways to automate repetitive task using powershell and python. Have broad experience and exposure across different IT technologies.  Excellent understanding of IT infrastructure, business operation and able to think and use analytic tools for effective analysis for data-driven decision-making. 
 
-## Recent Project Highlights :
+## Recent Project Highlights
+* Develop API using python (FastAPI) for in house Privilege Access Tools system - Python (FastAPI, pandas, Uvicorn)
 * Malaysia Population, Covid 19 Malaysia Vaccination & Death 
   - Python (Pandas, Streamlit etc), Heroku, Git
   - [Click Here - Heroku App URL](http://moh-vaccination-mm.herokuapp.com/)
@@ -14,6 +15,8 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
   - Powershell, Python (Pandas, Request, json), Sharepoint, Power BI
 * VMware VI Infra Overview Dashboard
   - Powershell, RVTools, Power BI
+## Page
+* [https://github.com/masrimustaman](https://github.com/masrimustaman)
 
 ## Skills
 **Infra/DevOps**
@@ -37,7 +40,6 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
  - Pattern recognition 
  - Relational databases and SQL 
  - Strong data visualization skills 
-
 
 ## Certification
 
@@ -74,9 +76,13 @@ Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP
 * Test of English for International Communication (TOEIC) - 975/990 - September 2012
 
 ## Experience
+**Data Center Server Engineering, Automation & Security Tools at ExxonMobil**
+
+Sept 2021 - Present
+
 **Server Architect (Manager) at Bank Negara Malaysia (Central Bank of Malaysia)**
 
-Sept 2018 - Present
+Sept 2018 - Sept 2021
 
 **Senior System Administrator at DXC Technology (Formerly known CSC Malaysia Sdn Bhd)**
 
