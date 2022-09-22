@@ -1,6 +1,6 @@
 ![Portfolio Banner](/images/MM_Portfolio_Banner.png)
 
-### IT Infra (Server) Architect / Infrastructure Operation Data Analyst
+### IT INFRA ARCHITECTURE, AUTOMATION, SECURITY TOOLS, DATA ANALYTICS
 
 Multi-lingual (English, Japanese, Malay) multi-certified (Amazon AWS, VMware VCP, Microsoft MCTS SCCM, Mile2 CPTE, Casper CCT) IT Specialist. Prefers CLI over GUI, and often finds ways to automate repetitive task using powershell and python. Have broad experience and exposure across different IT technologies.  Excellent understanding of IT infrastructure, business operation and able to think and use analytic tools for effective analysis for data-driven decision-making. 
 
